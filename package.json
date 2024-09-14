@@ -20,10 +20,18 @@
   "dependencies": {
     "@typescript-eslint/parser": "^2.10.0",
     "eslint": "^6.7.2",
+    "nodemon": "^3.1.4",
+    "ts-node": "^10.9.2",
     "tslint": "^5.20.1",
-    "typescript": "^3.7.3"
+    "typescript": "^3.9.10"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.10.0"
-  }
+  },
+  "name": "typescript-workshop-exercises",
+  "description": "Run:\r ```\r npm install -g typescript@latest\r npm install\r ```",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "author": "Nguyen Bao Huy",
+  "license": "ISC"
 }
